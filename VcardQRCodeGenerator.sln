@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{F1275777-FE9A-48F2-9AB2-9018AA90A90F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		..\..\..\Downloads\program.png = ..\..\..\Downloads\program.png
+		..\..\..\Downloads\qrcode.png = ..\..\..\Downloads\qrcode.png
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VcardQRCodeGenerator", "VcardQRCodeGenerator\VcardQRCodeGenerator.csproj", "{4256401D-47FE-401A-8BFD-86C62D9BA971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4256401D-47FE-401A-8BFD-86C62D9BA971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4256401D-47FE-401A-8BFD-86C62D9BA971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4256401D-47FE-401A-8BFD-86C62D9BA971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4256401D-47FE-401A-8BFD-86C62D9BA971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32249248-DA60-4C14-88AD-58F7EBF63637}
+	EndGlobalSection
+EndGlobal
