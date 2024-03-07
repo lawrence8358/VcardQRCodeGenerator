@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{F1275777-FE9A-48F2-9AB2-9018AA90A90F}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE = LICENSE
+		program.png = program.png
+		qrcode.png = qrcode.png
 		README.md = README.md
 	EndProjectSection
 EndProject

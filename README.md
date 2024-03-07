@@ -2,9 +2,9 @@
 
 
 > 批次產生電子名片 QRCode 的範例程式
-+ 程式值執行示意圖
++ 程式值執行示意圖<br>
 ![image](https://github.com/lawrence8358/VcardQRCodeGenerator/blob/main/program.png?raw=true)
-+ 電子名片範例示意圖
++ 電子名片範例示意圖<br>
    ![image](https://github.com/lawrence8358/VcardQRCodeGenerator/blob/main/qrcode.png?raw=true)
 
 ---
